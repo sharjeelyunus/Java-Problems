@@ -1,8 +1,7 @@
 /*-----------------------------PROBLEM--------------------------------------
-Write a program to print the names of students by creating a Student class. 
-If no name is passed while creating an object of Student class, 
-then the name should be "Unknown", otherwise the name should be equal to the 
-String value passed while creating object of Student class.
+Create a class named 'PrintNumber' to print various numbers of different 
+datatypes by creating different methods with the same name 'printn' having 
+a parameter for each datatype.
 */
 
 //SOLOUTION
